@@ -1,16 +1,7 @@
-<!-- 
-GIF SECTION
 
-If you wanna know how i made this gif
 
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;) 
--->
-<a href="https://github.com/DavidsDvm">![Alt text](assets/thumb.png)</a>
-<img align = "center" >![Alt text](photomyseft/photo1.jpg){width=300}</img>
-<!-- Social icons section -->
+![Alt text](day.gif)
+
 <h1 align="center"> Social Media: </h1>
   <p align="center">
     <a href="https://www.facebook.com/100011418290217">
@@ -111,10 +102,4 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- last activity section -->
 
-## Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
-<br>
 
