@@ -9,7 +9,7 @@ after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
 <a href="https://github.com/DavidsDvm">![Alt text](assets/thumb.png)</a>
-
+<img align = "center" >![Alt text](photomyseft/photo1.jpg){width=300}</img>
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
